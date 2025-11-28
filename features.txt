@@ -1,3 +1,5 @@
 bathroomsf
-bedrooms
 accommodates
+has_pool
+has_self_checkin
+room_type
