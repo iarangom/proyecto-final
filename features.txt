@@ -8,4 +8,3 @@ has_pool
 estimated_occupancy_l365d
 review_scores_rating
 accommodates
-instant_bookable
