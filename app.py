@@ -4,6 +4,10 @@ import joblib
 import numpy as np
 import pandas as pd
 
+import os
+
+print("Directorio actual:", os.getcwd())
+print("Archivos en el directorio:", os.listdir())
 # 1. Cargar preprocesador y modelo
 preprocesamiento = joblib.load("preprocesamiento.pkl")
 modelo_reg = joblib.load("model_reg.pkl")
