@@ -1,0 +1,12 @@
+host_response_rate
+host_is_superhost
+host_identity_verified
+instant_bookable
+minimum_nights
+maximum_nights
+bathroomsf
+beds
+has_wifi
+has_ac_heating
+has_self_checkin
+has_tv_cable
