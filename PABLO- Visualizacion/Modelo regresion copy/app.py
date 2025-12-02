@@ -25,9 +25,7 @@ df_entrada1 = pd.DataFrame([{
     'review_scores_location':4.6 ,      # Decimal [0,5]
     'has_jacuzzi':1 ,                   # Binario : 1 si si tiene, 0 si no
     'has_tv_cable':1 ,                  # Binario : 1 si si tiene, 0 si no
-    'has_pool':0 ,                      # Binario : 1 si si tiene, 0 si no
-    'estimated_occupancy_l365d': 234 ,  #Numero entero [0,365]
-    'review_scores_rating': 4.6 ,       # Decimal [0,5]
+    'has_pool':0 ,                      # Binario : 1 si si tiene, 0 si no     # Decimal [0,5]
     'accommodates': 4 ,                 # Entero numero de personas que pueden dormir ahi
     }])
 #DF para predecir recomendable o no 
