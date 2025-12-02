@@ -35,7 +35,7 @@ df_entrada2 = pd.DataFrame([{
     'host_identity_verified': 1,    # 1 si verificó identidad, 0 si no
     'instant_bookable': 0,          # 1 si se puede reservar instantáneamente
     'minimum_nights': 2,            # noches mínimas
-    'maximum_nights': 4,           # noches máximas
+    'maximum_nights': 4,            # noches máximas
     'bathroomsf': 1.5,              # cantidad de baños (decimal o entero)
     'beds': 2,                      # número de camas
     'has_wifi': 1,                  # amenity (1/0)
