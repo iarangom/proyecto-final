@@ -23,7 +23,7 @@ df_entrada1 = pd.DataFrame([{
     'bedrooms':4,                      # Numero de cuartos (puede ser decimal)
     'room_type':1,                      # Binario 'Entire home/apt': 1, 'Private room': 0
     'review_scores_location':4.6 ,      # Decimal [0,5]
-    'has_jacuzzi':1 ,                   # Binario : 1 si si tiene, 0 si no
+    'has_jacuzzi':0 ,                   # Binario : 1 si si tiene, 0 si no
     'has_tv_cable':1 ,                  # Binario : 1 si si tiene, 0 si no
     'has_pool':0 ,                      # Binario : 1 si si tiene, 0 si no     # Decimal [0,5]
     'accommodates': 4 ,                 # Entero numero de personas que pueden dormir ahi
