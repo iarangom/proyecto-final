@@ -1,0 +1,8 @@
+bathroomsf
+bedrooms
+room_type
+review_scores_location
+has_jacuzzi
+has_tv_cable
+has_pool
+accommodates
